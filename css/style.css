@@ -369,7 +369,7 @@ body {
 .main-product:active {
 	outline: 2px solid #cccccc;
 	filter: drop-shadow(2px 2px 2px black);
-	cursor: pointer;
+/* 	cursor: pointer; */
 	position: relative;
 	top: -2px;
 	left: -2px;
