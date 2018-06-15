@@ -5,12 +5,12 @@
 body {
 	margin: 0;
 	padding: 0;
-  	background-color: #f8f8f8;
 }
 .container {
 	width: 1500px;
 	margin: 0 auto;
 	height: 100%;
+	background-color: #f8f8f8;
 }
 .header {
 	box-sizing: border-box;
