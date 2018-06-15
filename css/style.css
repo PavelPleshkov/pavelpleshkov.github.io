@@ -361,7 +361,7 @@ body {
 .main-product:hover {
 	outline: 2px solid #cccccc;
 	filter: drop-shadow(5px 5px 5px black);
-	cursor: pointer;
+/* 	cursor: pointer; */
 	position: relative;
 	top: -5px;
 	left: -5px;
